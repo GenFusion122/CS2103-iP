@@ -1,10 +1,13 @@
 package Models;
+
+import Duck.Duck;
+
 import java.io.FileWriter;
 import java.io.IOException;
-import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import Duck.Duck;
+
+
 
 public class Event extends Todo{
     private Date date;

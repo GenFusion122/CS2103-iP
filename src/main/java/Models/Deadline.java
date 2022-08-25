@@ -1,9 +1,11 @@
 package Models;
+
 import java.io.IOException;
-import java.text.ParseException;
+import java.io.FileWriter;
+
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.io.FileWriter;
+
 import Duck.Duck;
 
 public class Deadline extends Todo{

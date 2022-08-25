@@ -1,8 +1,7 @@
 package Models;
-import java.io.BufferedWriter;
+
 import java.io.FileWriter;
 import java.io.IOException;
-import java.text.ParseException;
 
 public class Todo {
     protected final String title;
